@@ -1,2 +1,2 @@
 # Algorithms-for-Massive-Dataset
-If you want further informations, please have a look either to the report or to the codes, which you can find in this repository. 
+Market-Basket analysis performed over the IMDB dataset implementing the A-Priori and FP-Growth algorithm. This project has been implemented in both Google Colab and Google Cloud Platform (using a virtual machine).  
